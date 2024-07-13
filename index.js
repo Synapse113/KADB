@@ -1,1 +1,3 @@
-console.log('weeee');
+function yey() {
+  console.log('yey')
+}
